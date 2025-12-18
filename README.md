@@ -1,25 +1,105 @@
 <h1 align="center">Hi 👋, I'm Sangam Prajapati</h1>
-<h3 align="center">Passionate MERN Stack Developer 🚀 | Turning ideas into interactive web experiences | Based in India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"">
+<h3 align="center">IoT Developer & System Software Engineer 🚀 | Building Smart Embedded Systems | Based in India 🇮🇳</h3>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamlara2002&label=Profile%20views&color=0e75b6&style=flat" alt="sangamlara2002" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+## 🚀 About Me
 
-- 📫 How to reach me **prajapatisangam91@gmail.com**
+- 💼 **System Software Engineer** at Krishworks Technology and Research Labs Pvt. Ltd.
+- 🔧 Specializing in **Embedded Linux, IoT Solutions & Real-time Systems**
+- 🌱 Currently working with **U-Boot, RAUC, Mender, Yocto** and building secure OTA update systems
+- 🎯 Expertise in **ESP32, Raspberry Pi, RK3328/RK3399 SoCs** and industrial IoT applications
+- 📡 Building end-to-end IoT solutions from **sensor integration to cloud connectivity**
+- 📫 Reach me at **prajapatisangam91@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack
+
+### Embedded Systems & IoT
 <p align="left">
-<a href="https://linkedin.com/in/sangam-prajapati-284b091bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam-prajapati-284b091bb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prajapatisangam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajapatisangam1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajapatisangam91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajapatisangam91" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prajapatisangam91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajapatisangam91" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### IoT Hardware & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamlara2002&show_icons=true&locale=en&layout=compact" alt="sangamlara2002" /></p>
+### Backend & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS IoT"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangamlara2002&show_icons=true&locale=en" alt="sangamlara2002" /></p>
+### Embedded Linux & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Yocto-0D96F6?style=for-the-badge" alt="Yocto"/>
+  <img src="https://img.shields.io/badge/U--Boot-333333?style=for-the-badge" alt="U-Boot"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamlara2002&" alt="sangamlara2002" /></p>
+### Protocols & Communication
+- **IoT Protocols:** MQTT, HTTP/REST, WebSocket
+- **Hardware Protocols:** SPI, I2C, UART, RS485
+- **Wireless:** Wi-Fi, BLE, Cellular IoT (4G/LTE)
+- **Security:** OTA Updates, Device Authentication, dm-crypt Encryption
+
+## 💡 Key Projects
+
+### 🎯 IoT Indoor Positioning System
+- Achieved **sub-meter accuracy** using UWB technology on ESP32S3
+- Implemented trilateration algorithms for real-time location tracking
+- MQTT-based communication with **99.9% uptime** across 50+ nodes
+- Enabled OTA updates and remote diagnostics
+
+### 🌦️ IoT Weather Monitoring System
+- Multi-sensor platform using I2C, RS485, SPI protocols
+- Cellular connectivity via Quectel modem (SMS, FTP, HTTP)
+- Processes **1000+ logs/hour** with real-time OLED display
+- Battery optimization with power-saving modes
+
+### 🔧 Embedded Linux System Development
+- Upgraded U-Boot from v2017 to v2025 on RK3328 SoC
+- Implemented A/B partitioning with RAUC for failsafe updates
+- Configured secure OTA updates using Mender
+- Full-disk encryption with dm-crypt for enhanced security
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangamlara2002&show_icons=true&theme=radical&locale=en" alt="sangamlara2002" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangamlara2002&theme=radical" alt="sangamlara2002" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamlara2002&show_icons=true&theme=radical&locale=en&layout=compact" alt="sangamlara2002" />
+</p>
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sangam-p-284b091bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam-prajapati-284b091bb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prajapatisangam91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajapatisangam91" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prajapatisangam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajapatisangam1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jarvish_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jarvish_code" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Building the future, one embedded system at a time!" ⚡</i>
+</p>

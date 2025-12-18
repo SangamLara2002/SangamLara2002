@@ -3,7 +3,7 @@
 
 <img align="right" alt="Embedded Systems" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamlara2002&label=Profile%20views&color=0e75b6&style=flat" alt="sangamlara2002" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="sangamlara2002" /> </p>
 
 ## 🚀 About Me
 
@@ -60,7 +60,7 @@
 ### 🎯 IoT Indoor Positioning System
 - Achieved **sub-meter accuracy** using UWB technology on ESP32S3
 - Implemented trilateration algorithms for real-time location tracking
-- MQTT-based communication with **99.9% uptime** across 50+ nodes
+- MQTT-based communication across 100+ nodes
 - Enabled OTA updates and remote diagnostics
 
 ### 🌦️ IoT Weather Monitoring System

@@ -10,7 +10,7 @@
 - 🌱 Currently working with **U-Boot, RAUC, Mender, Yocto** and building secure OTA update systems
 - 🎯 Expertise in **ESP32, Raspberry Pi, RK3328/RK3399 SoCs** and industrial IoT applications
 - 📡 Building end-to-end IoT solutions from **sensor integration to cloud connectivity**
-- 📫 Reach me at **prajapatisangam91@gmail.com**
+- 📫 Reach me at **sangam029305@gmail.com**
 
 ## 🛠️ Tech Stack
 

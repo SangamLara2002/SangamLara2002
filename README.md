@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 💼 **System Software Engineer** at Krishworks Technology and Research Labs Pvt. Ltd.
+- 💼 **Software Engineer II** at Mirafra Software Technologies Private Limited, Hyderabad
 - 🔧 Specializing in **Embedded Linux, IoT Solutions & Real-time Systems**
 - 🌱 Currently working with **U-Boot, RAUC, Mender, Yocto** and building secure OTA update systems
 - 🎯 Expertise in **ESP32, Raspberry Pi, RK3328/RK3399 SoCs** and industrial IoT applications
